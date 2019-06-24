@@ -1,6 +1,6 @@
 @font-face{
-	font-family:bhoma;
-	src:url(../font/bhoma.ttf);
+	font-family:BlackoutMidnight;
+	src:url(../font/BlackoutMidnight.ttf);
 }
 #box{
 	width: 300px;
@@ -8,5 +8,5 @@
 	background-color: #00f;
 }
 span{
-	color:black;
+	color:blue;
 }
