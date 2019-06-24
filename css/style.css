@@ -1,5 +1,12 @@
+@font-face{
+	font-family:bhoma;
+	src:url(../font/bhoma.ttf);
+}
 #box{
 	width: 300px;
 	height: 300px;
 	background-color: #00f;
+}
+span{
+	color:black;
 }
